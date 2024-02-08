@@ -9,7 +9,7 @@ class DBUtil:
             host="localhost",
             port="3306",
             user="root",
-            password="nanideepu",
+            password="*******",
             database="car_rental_system"
         )
         return con
